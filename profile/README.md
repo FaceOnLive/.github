@@ -7,10 +7,12 @@ Dive into our portfolio: https://portfolio.faceonlive.com
 
 - Face Recognition (Top Ranked in NIST FRVT Leaderboard)
 - Face Liveness Detection (Robust and well tested against all available attacks)
-- ID Card, Passport, Driver License Recognition (200+ countries & regions)
+- ID Card, Passport, Driver License Recognition (200+ countries & regions, 10000+ Document Types)
 - Document Fraud Check
-- OCR Solutions (License Plate, Credit Card, BankCheck Recognition)
+- OCR Solutions (License Plate, Credit Card, MRZ, BankCheck Recognition)
 - Deep Fake Detection
+- Mobile Based Touchless Fingerprint Recognition
+- Music Separation
 
 ## Contact
 
