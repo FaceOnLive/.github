@@ -9,14 +9,38 @@ Fill Contact-Us Form at https://faceonlive.com for project discussion.
 
 Dive into our portfolio: https://portfolio.faceonlive.com
 
-- Face Recognition (Top Ranked in NIST FRVT Leaderboard)
-- Face Liveness Detection (Robust and well tested against all available attacks)
-- ID Card, Passport, Driver License Recognition (200+ countries & regions, 10000+ Document Types)
-- Document Fraud Check
-- OCR Solutions (License Plate, Credit Card, MRZ, BankCheck Recognition)
-- Deep Fake Detection
-- Mobile Based Touchless Fingerprint Recognition
-- Music Separation
+- Face Recognition (Top Ranked in NIST FRVT Leaderboard)<br/>
+  [Face-Recognition-SDK-Android](https://github.com/FaceOnLive/Face-Recognition-SDK-Android)<br/>
+  [Face-Recognition-SDK-iOS](https://github.com/FaceOnLive/Face-Recognition-SDK-iOS)<br/>
+  [Face-Recognition-SDK-Linux](https://github.com/FaceOnLive/Face-Recognition-SDK-Linux)<br/>
+  [Face-Recognition-SDK-Windows](https://github.com/FaceOnLive/Face-Recognition-SDK-Windows)<br/>
+  [Mask-Face-Attendance-App-Flutter](https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter)<br/>
+- Face Liveness Detection (Robust and well tested against all available attacks)<br/>
+  [Face-Liveness-Detection-SDK-Android](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Android)<br/>
+  [Face-Liveness-Detection-SDK-iOS](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-iOS)<br/>
+  [Face-Liveness-Detection-SDK-Linux](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Linux)<br/>  
+- ID Card, Passport, Driver License Recognition (200+ countries & regions, 10000+ Document Types)<br/>
+  [ID-Card-Passport-Recognition-SDK-Android](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android)<br/>
+  [ID-Card-Passport-Recognition-SDK-iOS](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-iOS)<br/>
+  [ID-Card-Passport-Recognition-SDK-Linux](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Linux)<br/>
+  [ID-Card-Passport-Recognition-SDK-Windows](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Windows)<br/>
+- Document Fraud Check<br/>
+  [ID-Document-Liveness-Detection-SDK-Linux](https://github.com/FaceOnLive/ID-Document-Liveness-Detection-SDK-Linux)<br/>
+- OCR Solutions (License Plate, Credit Card, MRZ, BankCheck Recognition))<br/>
+  [Credit-Card-Recognition-SDK-Android](https://github.com/FaceOnLive/Credit-Card-Recognition-SDK-Android)<br/>
+  [License-Plate-Recognition-SDK-Android](https://github.com/FaceOnLive/License-Plate-Recognition-SDK-Android)<br/>
+- Deep Fake Detection<br/>
+  [DeepFake-Detection-SDK-Linux](https://github.com/FaceOnLive/DeepFake-Detection-SDK-Linux)<br/>
+- Mobile Based Touchless Fingerprint Recognition<br/>
+  [Touchless-Fingerprint-Recognition-SDK-Android](https://github.com/FaceOnLive/Touchless-Fingerprint-Recognition-SDK-Android)<br/>
+  [Touchless-Fingerprint-Recognition-SDK-iOS](https://github.com/FaceOnLive/Touchless-Fingerprint-Recognition-SDK-iOS)<br/>
+- Music Separation<br/>
+  [Spleeter-Android-iOS](https://github.com/FaceOnLive/Spleeter-Android-iOS)<br/>
+  [Offline-Spleeter-App-Flutter](https://github.com/FaceOnLive/Offline-Spleeter-App-Flutter)<br/>
+- Pet Recognition<br/>
+  [Pet-Recognition-Android-iOS](https://github.com/FaceOnLive/Pet-Recognition-Android-iOS)<br/>
+- Background Matting<br/>
+  [Realtime-Background-Changer-SDK-Android](https://github.com/FaceOnLive/Realtime-Background-Changer-SDK-Android)<br/>
 
 ## Contact
 
