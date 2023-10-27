@@ -1,4 +1,7 @@
-✨ _**Update:**_
+✨ _**Update (Oct 26, 2023):**_
+We are on HuggingFace, get your own SDK Servers by duplicating spaces at https://huggingface.co/FaceOnLive.
+
+✨ _**Update (Apr 10, 2023):**_
 Our API portal is now live, offering free APIs for various AI solutions, including face recognition, liveness detection, and ID document recognition.<br/>
 Make sure to check it out at https://getapi.faceonlive.com and take advantage of our free offerings.<br/><br/>
 
