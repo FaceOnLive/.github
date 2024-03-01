@@ -1,3 +1,6 @@
+✨ _**Update (Mar 1, 2024):**_
+Introduce OpenKYC Community Project, build your own eKYC solution and contribute at this [Github Repo](https://github.com/FaceOnLive/OpenKYC), try at [HuggingFace Space](https://huggingface.co/spaces/FaceOnLive/OpenKYC).
+
 ✨ _**Update (Oct 26, 2023):**_
 We are on Hugging Face, get your own SDK Servers by duplicating spaces at https://huggingface.co/FaceOnLive.
 
@@ -47,6 +50,7 @@ Dive into our portfolio: https://portfolio.faceonlive.com
 
 ## Contact
 
+<a target="_blank" href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA"><img src="https://img.shields.io/badge/slack-faceonlive-blue.svg?logo=slack " alt="www.faceonlive.com"></a>&emsp;
 <a target="_blank" href="mailto:contact@faceonlive.com"><img src="https://img.shields.io/badge/email-contact@faceonlive.com-blue.svg?logo=gmail " alt="www.faceonlive.com"></a>&emsp;
 <a target="_blank" href="https://t.me/faceonlive"><img src="https://img.shields.io/badge/telegram-@faceonlive-blue.svg?logo=telegram " alt="www.faceonlive.com"></a>&emsp;
 <a target="_blank" href="https://wa.me/+17074043606"><img src="https://img.shields.io/badge/whatsapp-faceonlive-blue.svg?logo=whatsapp " alt="www.faceonlive.com">
