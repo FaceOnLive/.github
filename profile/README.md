@@ -7,8 +7,6 @@
     ·
     <a href="https://www.huggingface.co/FaceOnLive">Hugging Face</a>
     ·
-    <a href="https://getapi.faceonlive.com">Free APIs</a>
-    ·
     <a href="https://github.com/FaceOnLive/OpenKYC">OpenKYC</a>  
     ·
     <a href="https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter">Face Attendance</a>  
