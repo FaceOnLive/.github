@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/faceonlive-banner.webp" alt="FaceOnLive" width="760" height="253">
+  <img src="https://github.com/user-attachments/assets/c7a68ae4-346a-41ea-a6eb-f53044e78c45" alt="FaceOnLive" width="760" height="253">
 </p>
 
 <div align="center">
