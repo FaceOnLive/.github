@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="205" align="top">
+  <img src="./assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="202" align="top">
 </p>
 
 <div align="center">
@@ -9,9 +9,9 @@
 <p>Run face recognition, passive liveness detection, and ID document checks on your servers or your users’ devices.</p>
 
 <p>
-<a href="https://docs.faceonlive.com/"><img src="https://img.shields.io/badge/Read_the_docs-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Read the docs"/></a>
-<a href="https://huggingface.co/FaceOnLive"><img src="https://img.shields.io/badge/Try_live_demos-7A5BC4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Try live demos"/></a>
-<a href="https://faceonlive.com/contacts/"><img src="https://img.shields.io/badge/Request_evaluation-EC8A3A?style=for-the-badge&logoColor=white" alt="Request an evaluation"/></a>
+<a href="https://docs.faceonlive.com/"><img src="./assets/buttons/docs.svg" alt="Read the docs" width="176" height="36"></a>&nbsp;
+<a href="https://huggingface.co/FaceOnLive"><img src="./assets/buttons/demos.svg" alt="Try live demos" width="182" height="36"></a>&nbsp;
+<a href="https://faceonlive.com/contacts/"><img src="./assets/buttons/evaluation.svg" alt="Request evaluation" width="196" height="36"></a>
 </p>
 
 <p align="center">
@@ -27,8 +27,6 @@
 </p>
 
 </div>
-
----
 
 ### ➜ _Find your SDK_
 
