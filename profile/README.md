@@ -9,12 +9,10 @@
 <p>Run face recognition, passive liveness detection, and ID document checks on your servers or your users’ devices.</p>
 
 <p>
-<a href="https://docs.faceonlive.com/"><img src="./assets/buttons/docs.svg" alt="Read the docs" width="176" height="36"></a>&nbsp;
-<a href="https://huggingface.co/FaceOnLive"><img src="./assets/buttons/demos.svg" alt="Try live demos" width="182" height="36"></a>&nbsp;
-<a href="https://faceonlive.com/contacts/"><img src="./assets/buttons/evaluation.svg" alt="Request evaluation" width="196" height="36"></a>
-</p>
-
-<p align="center">
+<a href="https://docs.faceonlive.com/"><img src="./assets/buttons/docs.svg" alt="Read the docs" width="137" height="28"></a>&nbsp;
+<a href="https://huggingface.co/FaceOnLive"><img src="./assets/buttons/demos.svg" alt="Try live demos" width="142" height="28"></a>&nbsp;
+<a href="https://faceonlive.com/contacts/"><img src="./assets/buttons/evaluation.svg" alt="Request evaluation" width="152" height="28"></a>
+<br>
   <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="24" height="24"></a>&ensp;
   <a href="mailto:contact@faceonlive.com" title="Email FaceOnLive at contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email FaceOnLive at contact@faceonlive.com" width="24" height="24"></a>&ensp;
   <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="FaceOnLive on LinkedIn"><img src="./assets/icons/linkedin.svg" alt="FaceOnLive on LinkedIn" width="24" height="24"></a>&ensp;
