@@ -69,8 +69,8 @@ One capture, with no blinks or head turns. It detects photo, screen-replay, and 
 </td>
 <td width="33%" valign="top">
 
-#### ◆ Mobile, server, and offline deployment
-Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses are tied to the hardware ID, so no internet connection is needed.
+#### ◆ Mobile, server & offline
+Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses work without an internet connection.
 
 </td>
 </tr>
