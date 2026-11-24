@@ -26,7 +26,7 @@
 
 </div>
 
-### ➜ _Find your SDK_
+### 🔍︎ _Find your SDK_
 
 <p>
 <a href="https://github.com/orgs/FaceOnLive/repositories?q=Android"><img src="https://img.shields.io/badge/Android-7A5BC4?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
@@ -51,32 +51,32 @@
 
 ---
 
-### ✦ _Why teams choose FaceOnLive_
+### 🏆︎ _Why teams choose FaceOnLive_
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### ◆ Your data stays yours
+#### 🔒︎ Your data stays yours
 FaceOnLive’s offline SDKs run on your servers or your users’ devices. They send no images or biometric data to FaceOnLive.
 
 </td>
 <td width="33%" valign="top">
 
-#### ◆ Passive liveness detection
+#### 👁︎ Passive liveness detection
 One capture, with no blinks or head turns. It detects photo, screen-replay, and mask presentation attacks.
 
 </td>
 <td width="33%" valign="top">
 
-#### ◆ Mobile, server & offline
+#### 💻︎ Mobile, server & offline
 Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses work without an internet connection.
 
 </td>
 </tr>
 </table>
 
-### ✓ _Evaluation results_
+### ✅︎ _Evaluation results_
 
 <p>
 <img src="https://img.shields.io/badge/Face_Liveness_Detection_SDK-iBeta_Level_2_·_ISO%2FIEC_30107--3-000000?style=flat-square" alt="Face Liveness Detection SDK: tested by iBeta to ISO/IEC 30107-3 Level 2"/>
@@ -85,7 +85,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 ---
 
-### ★ _Featured: IDKit_
+### 🚀︎ _Featured: IDKit_
 
 **IDKit** is FaceOnLive’s self-hostable KYC platform. It includes a branded verification flow for web, iOS, and Android, an admin dashboard for reviewing sessions, and a REST API with webhooks for backend integration.
 
@@ -116,7 +116,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 ---
 
-### ▣ _SDK repositories_
+### 📂︎ _SDK repositories_
 
 **Two ways to integrate:** embed an SDK as a library inside your app or server, or call the [SDK-integrated server](https://docs.faceonlive.com/sdk-integrated-server)'s REST API from any language (Python, JavaScript and cURL samples included).
 
@@ -148,13 +148,13 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 ---
 
-### ◎ _Built for real-world identity checks_
+### 👤︎ _Built for real-world identity checks_
 
 **Use cases:** remote onboarding · passwordless login · account recovery · duplicate-account checks · physical access · trust & safety
 
 **Industries:** banking & fintech · insurance · telecom · healthcare · e-commerce & marketplaces · gig & delivery platforms · travel, hotels & airports · HR & video KYC · universities
 
-### ➤ _From evaluation to production_
+### 📈︎ _From evaluation to production_
 
 | Step | What you do | Link |
 | :-: | :-- | :-- |
@@ -163,7 +163,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 | **3** | Integrate in your own environment with the guides | [Docs](https://docs.faceonlive.com/) |
 | **4** | Go live on an **Annual** or **Perpetual** license, sized to your SDKs, platforms and volume | [Plans](https://faceonlive.com/pricing-plans/) |
 
-### ☰ _Integration guides_
+### 📖︎ _Integration guides_
 
 | Guide | Covers |
 | :-- | :-- |
@@ -175,7 +175,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 ---
 
-### ✆ _Connect with us_
+### 📞︎ _Connect with us_
 
 Questions about licensing, a pilot or your platform? **[Request an evaluation](https://faceonlive.com/contacts/)** or email **[contact@faceonlive.com](mailto:contact@faceonlive.com)**. You can also reach us on any of these channels:
 
