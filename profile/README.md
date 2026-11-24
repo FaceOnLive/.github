@@ -108,7 +108,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=4po8rVoGVFo">
-    <img src="https://img.youtube.com/vi/4po8rVoGVFo/maxresdefault.jpg" alt="Watch the IDKit walkthrough on YouTube: the selfie capture screen of the mobile verification flow" width="560"/>
+    <img src="./assets/idkit-walkthrough.svg" alt="Watch the IDKit walkthrough on YouTube: a selfie captured in the mobile verification flow" width="220" height="477"/>
   </a>
   <br/>
   <sub>▶ <a href="https://www.youtube.com/watch?v=4po8rVoGVFo"><b>Watch the IDKit walkthrough</b></a>: the verification flow as your users see it</sub>
