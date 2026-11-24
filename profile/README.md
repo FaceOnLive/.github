@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="209">
+  <img src="./assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="205" align="top">
 </p>
 
 <div align="center">
@@ -18,11 +18,12 @@
   <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="24" height="24"></a>&ensp;
   <a href="mailto:contact@faceonlive.com" title="Email FaceOnLive at contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email FaceOnLive at contact@faceonlive.com" width="24" height="24"></a>&ensp;
   <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="FaceOnLive on LinkedIn"><img src="./assets/icons/linkedin.svg" alt="FaceOnLive on LinkedIn" width="24" height="24"></a>&ensp;
+  <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="./assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="24" height="24"></a>&ensp;
   <a href="https://huggingface.co/FaceOnLive" title="FaceOnLive live demos on Hugging Face"><img src="./assets/icons/huggingface.svg" alt="FaceOnLive live demos on Hugging Face" width="24" height="24"></a>&ensp;
+  <a href="https://rapidapi.com/organization/faceonlive-inc" title="FaceOnLive APIs on RapidAPI"><img src="./assets/icons/api.svg" alt="FaceOnLive APIs on RapidAPI" width="24" height="24"></a>&ensp;
   <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Join the FaceOnLive Slack community"><img src="./assets/icons/slack.svg" alt="Join the FaceOnLive Slack community" width="24" height="24"></a>&ensp;
   <a href="https://wa.me/+17074043606" title="Chat with FaceOnLive on WhatsApp"><img src="./assets/icons/whatsapp.svg" alt="Chat with FaceOnLive on WhatsApp" width="24" height="24"></a>&ensp;
-  <a href="https://t.me/faceonlive" title="FaceOnLive on Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="FaceOnLive on Telegram: @faceonlive" width="24" height="24"></a>&ensp;
-  <a href="https://rapidapi.com/organization/faceonlive-inc" title="FaceOnLive APIs on RapidAPI"><img src="./assets/icons/api.svg" alt="FaceOnLive APIs on RapidAPI" width="24" height="24"></a>
+  <a href="https://t.me/faceonlive" title="FaceOnLive on Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="FaceOnLive on Telegram: @faceonlive" width="24" height="24"></a>
 </p>
 
 </div>
@@ -179,6 +180,7 @@ Questions about licensing, a pilot or your platform? **[Request an evaluation](h
 <p align="center">
   <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="36" height="36"></a>&emsp;
   <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="LinkedIn: faceonlive-sdk"><img src="./assets/icons/linkedin.svg" alt="LinkedIn: faceonlive-sdk" width="36" height="36"></a>&emsp;
+  <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="./assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="36" height="36"></a>&emsp;
   <a href="mailto:contact@faceonlive.com" title="Email: contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email: contact@faceonlive.com" width="36" height="36"></a>&emsp;
   <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Slack: join the FaceOnLive community"><img src="./assets/icons/slack.svg" alt="Slack: join the FaceOnLive community" width="36" height="36"></a>&emsp;
   <a href="https://wa.me/+17074043606" title="WhatsApp: chat with FaceOnLive"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp: chat with FaceOnLive" width="36" height="36"></a>&emsp;
