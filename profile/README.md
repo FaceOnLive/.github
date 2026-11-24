@@ -9,19 +9,19 @@
 <p>Run face recognition, passive liveness detection, and ID document checks on your servers or your users’ devices.</p>
 
 <p>
-<a href="https://docs.faceonlive.com/"><img src="./assets/buttons/docs.svg" alt="Read the docs" width="137" height="28"></a>&nbsp;
-<a href="https://huggingface.co/FaceOnLive"><img src="./assets/buttons/demos.svg" alt="Try live demos" width="142" height="28"></a>&nbsp;
-<a href="https://faceonlive.com/contacts/"><img src="./assets/buttons/evaluation.svg" alt="Request evaluation" width="152" height="28"></a>
+<a href="https://docs.faceonlive.com/"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/buttons/docs.svg" alt="Read the docs" width="137" height="28"></a>&nbsp;
+<a href="https://huggingface.co/FaceOnLive"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/buttons/demos.svg" alt="Try live demos" width="142" height="28"></a>&nbsp;
+<a href="https://faceonlive.com/contacts/"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/buttons/evaluation.svg" alt="Request evaluation" width="152" height="28"></a>
 <br>
-  <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="24" height="24"></a>&ensp;
-  <a href="mailto:contact@faceonlive.com" title="Email FaceOnLive at contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email FaceOnLive at contact@faceonlive.com" width="24" height="24"></a>&ensp;
-  <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="FaceOnLive on LinkedIn"><img src="./assets/icons/linkedin.svg" alt="FaceOnLive on LinkedIn" width="24" height="24"></a>&ensp;
-  <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="./assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="24" height="24"></a>&ensp;
-  <a href="https://huggingface.co/FaceOnLive" title="FaceOnLive live demos on Hugging Face"><img src="./assets/icons/huggingface.svg" alt="FaceOnLive live demos on Hugging Face" width="24" height="24"></a>&ensp;
-  <a href="https://rapidapi.com/organization/faceonlive-inc" title="FaceOnLive APIs on RapidAPI"><img src="./assets/icons/api.svg" alt="FaceOnLive APIs on RapidAPI" width="24" height="24"></a>&ensp;
-  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Join the FaceOnLive Slack community"><img src="./assets/icons/slack.svg" alt="Join the FaceOnLive Slack community" width="24" height="24"></a>&ensp;
-  <a href="https://wa.me/+17074043606" title="Chat with FaceOnLive on WhatsApp"><img src="./assets/icons/whatsapp.svg" alt="Chat with FaceOnLive on WhatsApp" width="24" height="24"></a>&ensp;
-  <a href="https://t.me/faceonlive" title="FaceOnLive on Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="FaceOnLive on Telegram: @faceonlive" width="24" height="24"></a>
+  <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="24" height="24"></a>&ensp;
+  <a href="mailto:contact@faceonlive.com" title="Email FaceOnLive at contact@faceonlive.com"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/email.svg" alt="Email FaceOnLive at contact@faceonlive.com" width="24" height="24"></a>&ensp;
+  <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="FaceOnLive on LinkedIn"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/linkedin.svg" alt="FaceOnLive on LinkedIn" width="24" height="24"></a>&ensp;
+  <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="24" height="24"></a>&ensp;
+  <a href="https://huggingface.co/FaceOnLive" title="FaceOnLive live demos on Hugging Face"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/huggingface.svg" alt="FaceOnLive live demos on Hugging Face" width="24" height="24"></a>&ensp;
+  <a href="https://rapidapi.com/organization/faceonlive-inc" title="FaceOnLive APIs on RapidAPI"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/api.svg" alt="FaceOnLive APIs on RapidAPI" width="24" height="24"></a>&ensp;
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Join the FaceOnLive Slack community"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/slack.svg" alt="Join the FaceOnLive Slack community" width="24" height="24"></a>&ensp;
+  <a href="https://wa.me/+17074043606" title="Chat with FaceOnLive on WhatsApp"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/whatsapp.svg" alt="Chat with FaceOnLive on WhatsApp" width="24" height="24"></a>&ensp;
+  <a href="https://t.me/faceonlive" title="FaceOnLive on Telegram: @faceonlive"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/telegram.svg" alt="FaceOnLive on Telegram: @faceonlive" width="24" height="24"></a>
 </p>
 
 </div>
