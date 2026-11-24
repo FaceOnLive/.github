@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="API">
+<title>API</title>
+<circle cx="32" cy="32" r="32" fill="#0055DA"/>
+<path d="M34.27 29.72 L37.87 30.06 L37.87 33.94 L34.27 34.28 L32.59 38.35 L34.89 41.14 L32.14 43.89 L29.35 41.59 L25.28 43.27 L24.94 46.87 L21.06 46.87 L20.72 43.27 L16.65 41.59 L13.86 43.89 L11.11 41.14 L13.41 38.35 L11.73 34.28 L8.13 33.94 L8.13 30.06 L11.73 29.72 L13.41 25.65 L11.11 22.86 L13.86 20.11 L16.65 22.41 L20.72 20.73 L21.06 17.13 L24.94 17.13 L25.28 20.73 L29.35 22.41 L32.14 20.11 L34.89 22.86 L32.59 25.65 Z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="23" cy="32" r="4.5" fill="none" stroke="#fff" stroke-width="3"/>
+<text x="27" y="38.5" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="16" fill="#fff" stroke="#0055DA" stroke-width="3.5" paint-order="stroke" stroke-linejoin="round">API</text>
+</svg>

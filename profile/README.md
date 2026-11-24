@@ -6,23 +6,32 @@
 
 <h2>On-premises identity verification you fully control</h2>
 
-<p>
-Face recognition, passive liveness detection and ID document SDKs that run on <b>your servers</b>, <b>your users' devices</b> or <b>fully offline</b>.<br/>
-Nothing goes through a hosted API, so images and biometric data never leave your environment.
-</p>
+<p>Run face recognition, passive liveness detection, and ID document checks on your servers or your users’ devices.</p>
 
+<p>
 <a href="https://docs.faceonlive.com/"><img src="https://img.shields.io/badge/Read_the_docs-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Read the docs"/></a>
 <a href="https://huggingface.co/FaceOnLive"><img src="https://img.shields.io/badge/Try_live_demos-7A5BC4?style=for-the-badge&logo=huggingface&logoColor=white" alt="Try live demos"/></a>
 <a href="https://faceonlive.com/contacts/"><img src="https://img.shields.io/badge/Request_evaluation-EC8A3A?style=for-the-badge&logoColor=white" alt="Request an evaluation"/></a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="24" height="24"></a>&ensp;
+  <a href="mailto:contact@faceonlive.com" title="Email FaceOnLive at contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email FaceOnLive at contact@faceonlive.com" width="24" height="24"></a>&ensp;
+  <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="FaceOnLive on LinkedIn"><img src="./assets/icons/linkedin.svg" alt="FaceOnLive on LinkedIn" width="24" height="24"></a>&ensp;
+  <a href="https://huggingface.co/FaceOnLive" title="FaceOnLive live demos on Hugging Face"><img src="./assets/icons/huggingface.svg" alt="FaceOnLive live demos on Hugging Face" width="24" height="24"></a>&ensp;
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Join the FaceOnLive Slack community"><img src="./assets/icons/slack.svg" alt="Join the FaceOnLive Slack community" width="24" height="24"></a>&ensp;
+  <a href="https://wa.me/+17074043606" title="Chat with FaceOnLive on WhatsApp"><img src="./assets/icons/whatsapp.svg" alt="Chat with FaceOnLive on WhatsApp" width="24" height="24"></a>&ensp;
+  <a href="https://t.me/faceonlive" title="FaceOnLive on Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="FaceOnLive on Telegram: @faceonlive" width="24" height="24"></a>&ensp;
+  <a href="https://rapidapi.com/organization/faceonlive-inc" title="FaceOnLive APIs on RapidAPI"><img src="./assets/icons/api.svg" alt="FaceOnLive APIs on RapidAPI" width="24" height="24"></a>
+</p>
 
-<img src="https://img.shields.io/badge/Liveness-iBeta_Level_2_·_ISO%2FIEC_30107--3-000000?style=flat-square" alt="Liveness tested by iBeta against ISO/IEC 30107-3 Level 2"/>
-<img src="https://img.shields.io/badge/Face_Recognition-NIST_FRVT_evaluated-000000?style=flat-square" alt="Face recognition NIST FRVT evaluated"/>
-<img src="https://img.shields.io/badge/Images_sent_to_FaceOnLive-0-000000?style=flat-square" alt="Images sent to FaceOnLive: 0"/>
+</div>
 
-<br/>
+---
 
+### ➜ _Find your SDK_
+
+<p>
 <img src="https://img.shields.io/badge/Android-7A5BC4?style=flat-square&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/iOS-7A5BC4?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/Flutter-7A5BC4?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -30,15 +39,18 @@ Nothing goes through a hosted API, so images and biometric data never leave your
 <img src="https://img.shields.io/badge/Windows-7A5BC4?style=flat-square" alt="Windows"/>
 <img src="https://img.shields.io/badge/.NET-7A5BC4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Python-7A5BC4?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-<p>
-<a href="https://docs.faceonlive.com/"><b>Docs</b></a> ·
-<a href="https://faceonlive.com/pricing-plans/"><b>Pricing</b></a> ·
-<a href="https://github.com/FaceOnLive/ID-Verification-OpenKYC"><b>IDKit</b></a> ·
-<a href="https://www.linkedin.com/company/faceonlive-sdk/"><b>LinkedIn</b></a>
 </p>
 
-</div>
+| If you need to… | Start with | Docs | Try it |
+| :-- | :-- | :-- | :-- |
+| Launch a complete KYC flow: ID scan, selfie, review | **[IDKit](#-featured-idkit)** | [Guide](https://docs.faceonlive.com/idkit-self-host-kyc-platform) | [Video](https://www.youtube.com/watch?v=4po8rVoGVFo) |
+| Verify a selfie 1:1 or search a gallery 1:N | **[Face Recognition](https://faceonlive.com/projects/face-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Search-Online) |
+| Stop photo, screen-replay and mask attacks | **[Face Liveness Detection](https://faceonlive.com/projects/face-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK) |
+| Read passports, ID cards and driving licences (OCR, MRZ, barcode) | **[ID Document Recognition](https://faceonlive.com/projects/id-document-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Recognition-SDK) |
+| Detect printed, replayed or tampered documents | **ID Document Liveness** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Liveness-Detection) |
+| Flag AI-generated and manipulated faces | **[Deepfake Detection](https://faceonlive.com/projects/deepfake-detection-sdk/)** | [Contact us](https://faceonlive.com/contacts/) | [Demo](https://huggingface.co/spaces/FaceOnLive/Deepfake-Detector) |
+
+> **New to FaceOnLive?** Start with **IDKit**. It chains document recognition, document liveness, face liveness and face matching into one ready-made flow, and you can drop down to the individual SDKs whenever you need more control.
 
 ---
 
@@ -67,18 +79,13 @@ Ship on mobile, on servers or in air-gapped sites across seven platforms. Offlin
 </tr>
 </table>
 
-### ➜ _Which SDK should I start with?_
+### ✓ _Evaluation results_
 
-| If you need to… | Start with | Docs | Try it |
-| :-- | :-- | :-- | :-- |
-| Launch a complete KYC flow: ID scan, selfie, review | **[IDKit](#-featured-idkit)** | [Guide](https://docs.faceonlive.com/idkit-self-host-kyc-platform) | [Video](https://www.youtube.com/watch?v=4po8rVoGVFo) |
-| Verify a selfie 1:1 or search a gallery 1:N | **[Face Recognition](https://faceonlive.com/projects/face-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Search-Online) |
-| Stop photo, screen-replay and mask attacks | **[Face Liveness Detection](https://faceonlive.com/projects/face-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK) |
-| Read passports, ID cards and driving licences (OCR, MRZ, barcode) | **[ID Document Recognition](https://faceonlive.com/projects/id-document-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Recognition-SDK) |
-| Detect printed, replayed or tampered documents | **ID Document Liveness** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Liveness-Detection) |
-| Flag AI-generated and manipulated faces | **[Deepfake Detection](https://faceonlive.com/projects/deepfake-detection-sdk/)** | [Contact us](https://faceonlive.com/contacts/) | [Demo](https://huggingface.co/spaces/FaceOnLive/Deepfake-Detector) |
-
-> **New to FaceOnLive?** Start with **IDKit**. It chains document recognition, document liveness, face liveness and face matching into one ready-made flow, and you can drop down to the individual SDKs whenever you need more control.
+<p>
+<img src="https://img.shields.io/badge/Liveness-iBeta_Level_2_·_ISO%2FIEC_30107--3-000000?style=flat-square" alt="Liveness tested by iBeta against ISO/IEC 30107-3 Level 2"/>
+<img src="https://img.shields.io/badge/Face_Recognition-NIST_FRVT_evaluated-000000?style=flat-square" alt="Face recognition NIST FRVT evaluated"/>
+<img src="https://img.shields.io/badge/Images_sent_to_FaceOnLive-0-000000?style=flat-square" alt="Images sent to FaceOnLive: 0"/>
+</p>
 
 ---
 
@@ -167,11 +174,18 @@ Ship on mobile, on servers or in air-gapped sites across seven platforms. Offlin
 
 ### ✆ _Connect with us_
 
-<a href="https://www.linkedin.com/company/faceonlive-sdk/"><img src="https://img.shields.io/badge/linkedin-faceonlive--sdk-EC8A3A.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn: faceonlive-sdk"/></a>&emsp;
-<a href="mailto:contact@faceonlive.com"><img src="https://img.shields.io/badge/email-contact@faceonlive.com-EC8A3A.svg?logo=gmail" alt="Email: contact@faceonlive.com"/></a>&emsp;
-<a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA"><img src="https://img.shields.io/badge/slack-faceonlive-EC8A3A.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BU2xhY2s8L3RpdGxlPjxwYXRoIGZpbGw9IiNFMDFFNUEiIGQ9Ik01LjA0MiAxNS4xNjVhMi41MjggMi41MjggMCAwIDEtMi41MiAyLjUyM0EyLjUyOCAyLjUyOCAwIDAgMSAwIDE1LjE2NWEyLjUyNyAyLjUyNyAwIDAgMSAyLjUyMi0yLjUyaDIuNTJ2Mi41MnpNNi4zMTMgMTUuMTY1YTIuNTI3IDIuNTI3IDAgMCAxIDIuNTIxLTIuNTIgMi41MjcgMi41MjcgMCAwIDEgMi41MjEgMi41MnY2LjMxM0EyLjUyOCAyLjUyOCAwIDAgMSA4LjgzNCAyNGEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMS0yLjUyMnYtNi4zMTN6TTguODM0IDUuMDQyYTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIxLTIuNTJBMi41MjggMi41MjggMCAwIDEgOC44MzQgMGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMSAyLjUyMnYyLjUySDguODM0ek04LjgzNCA2LjMxM2EyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMSAyLjUyMSAyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMSAyLjUyMUgyLjUyMkEyLjUyOCAyLjUyOCAwIDAgMSAwIDguODM0YTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIyLTIuNTIxaDYuMzEyek0xOC45NTYgOC44MzRhMi41MjggMi41MjggMCAwIDEgMi41MjItMi41MjFBMi41MjggMi41MjggMCAwIDEgMjQgOC44MzRhMi41MjggMi41MjggMCAwIDEtMi41MjIgMi41MjFoLTIuNTIyVjguODM0ek0xNy42ODggOC44MzRhMi41MjggMi41MjggMCAwIDEtMi41MjMgMi41MjEgMi41MjcgMi41MjcgMCAwIDEtMi41Mi0yLjUyMVYyLjUyMkEyLjUyNyAyLjUyNyAwIDAgMSAxNS4xNjUgMGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMyAyLjUyMnY2LjMxMnpNMTUuMTY1IDE4Ljk1NmEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMyAyLjUyMkEyLjUyOCAyLjUyOCAwIDAgMSAxNS4xNjUgMjRhMi41MjcgMi41MjcgMCAwIDEtMi41Mi0yLjUyMnYtMi41MjJoMi41MnpNMTUuMTY1IDE3LjY4OGEyLjUyNyAyLjUyNyAwIDAgMS0yLjUyLTIuNTIzIDIuNTI2IDIuNTI2IDAgMCAxIDIuNTItMi41Mmg2LjMxM0EyLjUyNyAyLjUyNyAwIDAgMSAyNCAxNS4xNjVhMi41MjggMi41MjggMCAwIDEtMi41MjIgMi41MjNoLTYuMzEzeiIvPjwvc3ZnPg%3D%3D" alt="Slack: faceonlive"/></a>&emsp;
-<a href="https://wa.me/+17074043606"><img src="https://img.shields.io/badge/whatsapp-faceonlive-EC8A3A.svg?logo=whatsapp" alt="WhatsApp: faceonlive"/></a>&emsp;
-<a href="https://t.me/faceonlive"><img src="https://img.shields.io/badge/telegram-@faceonlive-EC8A3A.svg?logo=telegram" alt="Telegram: @faceonlive"/></a>
+Questions about licensing, a pilot or your platform? **[Request an evaluation](https://faceonlive.com/contacts/)** or email **[contact@faceonlive.com](mailto:contact@faceonlive.com)**. You can also reach us on any of these channels:
+
+<p align="center">
+  <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="36" height="36"></a>&emsp;
+  <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="LinkedIn: faceonlive-sdk"><img src="./assets/icons/linkedin.svg" alt="LinkedIn: faceonlive-sdk" width="36" height="36"></a>&emsp;
+  <a href="mailto:contact@faceonlive.com" title="Email: contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email: contact@faceonlive.com" width="36" height="36"></a>&emsp;
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Slack: join the FaceOnLive community"><img src="./assets/icons/slack.svg" alt="Slack: join the FaceOnLive community" width="36" height="36"></a>&emsp;
+  <a href="https://wa.me/+17074043606" title="WhatsApp: chat with FaceOnLive"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp: chat with FaceOnLive" width="36" height="36"></a>&emsp;
+  <a href="https://t.me/faceonlive" title="Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="Telegram: @faceonlive" width="36" height="36"></a>&emsp;
+  <a href="https://huggingface.co/FaceOnLive" title="Hugging Face: live demos"><img src="./assets/icons/huggingface.svg" alt="Hugging Face: live demos" width="36" height="36"></a>&emsp;
+  <a href="https://rapidapi.com/organization/faceonlive-inc" title="RapidAPI: FaceOnLive APIs"><img src="./assets/icons/api.svg" alt="RapidAPI: FaceOnLive APIs" width="36" height="36"></a>
+</p>
 
 <br/>
 
