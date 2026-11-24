@@ -41,7 +41,7 @@
 | If you need to… | Start with | Resources | Try it |
 | :-- | :-- | :-- | :-- |
 | Launch a complete KYC flow: ID scan, selfie, review | **[IDKit](#-featured-idkit)** | [Guide](https://docs.faceonlive.com/idkit-self-host-kyc-platform) | [Video](https://www.youtube.com/watch?v=4po8rVoGVFo) |
-| Verify a selfie 1:1 or search a gallery 1:N | **[Face Recognition](https://faceonlive.com/projects/face-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Recognition-SDK) |
+| Match a selfie to a reference photo (1:1) or search a face gallery (1:N) | **[Face Recognition](https://faceonlive.com/projects/face-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Recognition-SDK) |
 | Detect photo, screen-replay, and mask presentation attacks | **[Face Liveness Detection](https://faceonlive.com/projects/face-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK) |
 | Read passports, ID cards and driving licences (OCR, MRZ, barcode) | **[ID Document Recognition](https://faceonlive.com/projects/id-document-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Recognition-SDK) |
 | Detect printed, replayed or tampered documents | **[ID Document Liveness](https://faceonlive.com/projects/id-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/document-recognition/reference/linux/id-document-liveness-detection) | [Request a demo](https://faceonlive.com/contacts/) |
@@ -58,7 +58,7 @@
 <td width="33%" valign="top">
 
 #### ◆ Your data stays yours
-Every SDK runs inside your own infrastructure. The offline SDKs send no images or biometric data to FaceOnLive.
+FaceOnLive’s offline SDKs run on your servers or your users’ devices. They send no images or biometric data to FaceOnLive.
 
 </td>
 <td width="33%" valign="top">
@@ -87,15 +87,17 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 ### ★ _Featured: IDKit_
 
-**[IDKit](https://github.com/FaceOnLive/ID-Verification-OpenKYC)** is FaceOnLive's self-hostable KYC platform. It gives you a branded verification flow for web, iOS and Android, an admin dashboard for your review team, and an API and webhooks for your backend. The FaceOnLive SDK-integrated server powers it.
+**IDKit** is FaceOnLive’s self-hostable KYC platform. It includes a branded verification flow for web, iOS, and Android, an admin dashboard for reviewing sessions, and a REST API with webhooks for backend integration.
+
+**[View repository →](https://github.com/FaceOnLive/ID-Verification-OpenKYC)**
 
 <p align="center">
   <a href="https://github.com/FaceOnLive/ID-Verification-OpenKYC">
-    <img src="https://raw.githubusercontent.com/FaceOnLive/ID-Verification-OpenKYC/main/doc/screenshot_2.png" alt="IDKit admin dashboard showing a verification session with document liveness scores and a face comparison match" width="760"/>
+    <img src="./assets/idkit-dashboard.webp" alt="IDKit admin dashboard showing a verification session with document liveness scores and a face comparison match" width="760" height="356"/>
   </a>
 </p>
 
-| | |
+| Step | What you can do |
 | :-- | :-- |
 | **Verify** | Document capture and recognition, document liveness, passive face liveness and ID-to-selfie matching |
 | **Review** | Approve or decline sessions, inspect liveness scores, and manage moderators and admins |
