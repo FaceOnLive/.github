@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="253">
+  <img src="./assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="209">
 </p>
 
 <div align="center">
