@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b38525da-a7a5-4689-bcc0-51540a0a021a" alt="FaceOnLive" width="760" height="253">
+  <img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/faceonlive-banner.svg" alt="FaceOnLive" width="760" height="253">
 </p>
 
 <div align="center">
