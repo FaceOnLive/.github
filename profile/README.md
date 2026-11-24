@@ -29,13 +29,13 @@
 ### ➜ _Find your SDK_
 
 <p>
-<img src="https://img.shields.io/badge/Android-7A5BC4?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/iOS-7A5BC4?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/Flutter-7A5BC4?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Linux-7A5BC4?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/Windows-7A5BC4?style=flat-square" alt="Windows"/>
-<img src="https://img.shields.io/badge/.NET-7A5BC4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/Python-7A5BC4?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<a href="https://github.com/orgs/FaceOnLive/repositories?q=Android"><img src="https://img.shields.io/badge/Android-7A5BC4?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
+<a href="https://github.com/orgs/FaceOnLive/repositories?q=iOS"><img src="https://img.shields.io/badge/iOS-7A5BC4?style=flat-square&logo=apple&logoColor=white" alt="iOS"/></a>
+<a href="https://github.com/orgs/FaceOnLive/repositories?q=Flutter"><img src="https://img.shields.io/badge/Flutter-7A5BC4?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+<a href="https://github.com/orgs/FaceOnLive/repositories?q=Linux"><img src="https://img.shields.io/badge/Linux-7A5BC4?style=flat-square&logo=linux&logoColor=white" alt="Linux"/></a>
+<a href="https://github.com/orgs/FaceOnLive/repositories?q=Windows"><img src="https://img.shields.io/badge/Windows-7A5BC4?style=flat-square" alt="Windows"/></a>
+<a href="https://github.com/FaceOnLive/Face-Recognition-SDK-Windows-DotNet"><img src="https://img.shields.io/badge/.NET-7A5BC4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/></a>
+<a href="https://docs.faceonlive.com/sdk-integrated-server"><img src="https://img.shields.io/badge/Python-7A5BC4?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
 | If you need to… | Start with | Resources | Try it |
