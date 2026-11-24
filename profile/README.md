@@ -38,16 +38,16 @@
 <img src="https://img.shields.io/badge/Python-7A5BC4?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-| If you need to… | Start with | Docs | Try it |
+| If you need to… | Start with | Resources | Try it |
 | :-- | :-- | :-- | :-- |
 | Launch a complete KYC flow: ID scan, selfie, review | **[IDKit](#-featured-idkit)** | [Guide](https://docs.faceonlive.com/idkit-self-host-kyc-platform) | [Video](https://www.youtube.com/watch?v=4po8rVoGVFo) |
-| Verify a selfie 1:1 or search a gallery 1:N | **[Face Recognition](https://faceonlive.com/projects/face-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Search-Online) |
-| Stop photo, screen-replay and mask attacks | **[Face Liveness Detection](https://faceonlive.com/projects/face-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK) |
+| Verify a selfie 1:1 or search a gallery 1:N | **[Face Recognition](https://faceonlive.com/projects/face-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Recognition-SDK) |
+| Detect photo, screen-replay, and mask presentation attacks | **[Face Liveness Detection](https://faceonlive.com/projects/face-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/face-recognition-liveness-detection/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/Face-Liveness-Detection-SDK) |
 | Read passports, ID cards and driving licences (OCR, MRZ, barcode) | **[ID Document Recognition](https://faceonlive.com/projects/id-document-recognition-sdk/)** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Recognition-SDK) |
-| Detect printed, replayed or tampered documents | **ID Document Liveness** | [Guide](https://docs.faceonlive.com/document-recognition/introduction) | [Demo](https://huggingface.co/spaces/FaceOnLive/ID-Document-Liveness-Detection) |
+| Detect printed, replayed or tampered documents | **[ID Document Liveness](https://faceonlive.com/projects/id-liveness-detection-sdk/)** | [Guide](https://docs.faceonlive.com/document-recognition/reference/linux/id-document-liveness-detection) | [Request a demo](https://faceonlive.com/contacts/) |
 | Flag AI-generated and manipulated faces | **[Deepfake Detection](https://faceonlive.com/projects/deepfake-detection-sdk/)** | [Contact us](https://faceonlive.com/contacts/) | [Demo](https://huggingface.co/spaces/FaceOnLive/Deepfake-Detector) |
 
-> **New to FaceOnLive?** Start with **IDKit**. It chains document recognition, document liveness, face liveness and face matching into one ready-made flow, and you can drop down to the individual SDKs whenever you need more control.
+> **Need a complete KYC flow?** Start with **[IDKit](https://github.com/FaceOnLive/ID-Verification-OpenKYC)**. It combines document recognition, document liveness, face liveness, and face matching in one workflow.
 
 ---
 
@@ -58,19 +58,19 @@
 <td width="33%" valign="top">
 
 #### ◆ Your data stays yours
-Every SDK runs inside your own infrastructure. No selfies, ID scans or face templates are sent to FaceOnLive, which keeps privacy reviews and data-residency rules simple.
+Every SDK runs inside your own infrastructure. The offline SDKs send no images or biometric data to FaceOnLive.
 
 </td>
 <td width="33%" valign="top">
 
-#### ◆ Spoof-proof by design
-Passive liveness needs **one capture**: no blinks, no head turns. It catches printed photos, screen replays and masks, and was tested by iBeta against ISO/IEC 30107-3 Level 2.
+#### ◆ Passive liveness detection
+One capture, with no blinks or head turns. It detects photo, screen-replay, and mask presentation attacks.
 
 </td>
 <td width="33%" valign="top">
 
-#### ◆ Built to deploy anywhere
-Ship on mobile, on servers or in air-gapped sites across seven platforms. Offline deployments are licensed against the hardware ID, so no internet connection is needed.
+#### ◆ Mobile, server, and offline deployment
+Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses are tied to the hardware ID, so no internet connection is needed.
 
 </td>
 </tr>
@@ -79,9 +79,8 @@ Ship on mobile, on servers or in air-gapped sites across seven platforms. Offlin
 ### ✓ _Evaluation results_
 
 <p>
-<img src="https://img.shields.io/badge/Liveness-iBeta_Level_2_·_ISO%2FIEC_30107--3-000000?style=flat-square" alt="Liveness tested by iBeta against ISO/IEC 30107-3 Level 2"/>
-<img src="https://img.shields.io/badge/Face_Recognition-NIST_FRVT_evaluated-000000?style=flat-square" alt="Face recognition NIST FRVT evaluated"/>
-<img src="https://img.shields.io/badge/Images_sent_to_FaceOnLive-0-000000?style=flat-square" alt="Images sent to FaceOnLive: 0"/>
+<img src="https://img.shields.io/badge/Face_Liveness_Detection_SDK-iBeta_Level_2_·_ISO%2FIEC_30107--3-000000?style=flat-square" alt="Face Liveness Detection SDK: tested by iBeta to ISO/IEC 30107-3 Level 2"/>
+<a href="https://face.nist.gov/frte/reportcards/11/faceonlive_003.html"><img src="https://img.shields.io/badge/Face_Recognition_(faceonlive__003)-NIST_FRTE_1%3A1_report_card-000000?style=flat-square" alt="Face Recognition algorithm faceonlive_003: NIST FRTE 1:1 report card"/></a>
 </p>
 
 ---
