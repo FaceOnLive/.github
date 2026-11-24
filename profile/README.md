@@ -102,7 +102,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 | **Verify** | Document capture and recognition, document liveness, passive face liveness and ID-to-selfie matching |
 | **Review** | Approve or decline sessions, inspect liveness scores, and manage moderators and admins |
 | **Integrate** | Create sessions through the REST API and receive results by webhook |
-| **Ship** | Admin app, user app (web, iOS, Android) and cloud functions |
+| **Ship** | Deploy the admin dashboard, verification app for web, iOS, and Android, and backend cloud functions |
 
 **Set up in five steps:** [Overview](https://docs.faceonlive.com/idkit-self-host-kyc-platform) → [Firebase setup](https://docs.faceonlive.com/idkit-self-host-kyc-platform/firebase-setup) → [Project setup](https://docs.faceonlive.com/idkit-self-host-kyc-platform/project-setup) → [Create a session (API)](https://docs.faceonlive.com/idkit-self-host-kyc-platform/creating-session-api) → [Webhooks](https://docs.faceonlive.com/idkit-self-host-kyc-platform/webhook-integration-guide)
 
@@ -123,13 +123,18 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 | Capability | Android | iOS | Linux | Windows |
 | :-- | :-: | :-: | :-: | :-: |
 | **Face Recognition**<br/><sub>1:1 verification and 1:N search, similarity score 0–1</sub> | [SDK](https://github.com/FaceOnLive/Face-Recognition-SDK-Android) | [SDK](https://github.com/FaceOnLive/Face-Recognition-SDK-iOS) | [SDK](https://github.com/FaceOnLive/Face-Recognition-SDK-Linux) | [SDK](https://github.com/FaceOnLive/Face-Recognition-SDK-Windows) |
-| **Face Liveness Detection**<br/><sub>Passive, one capture: stops photos, screen replays and masks</sub> | [SDK](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Android) | [SDK](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-iOS) | [SDK](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Linux) | — |
+| **Face Liveness Detection**<br/><sub>Detects photo, screen-replay, and mask presentation attacks</sub> | [SDK](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Android) | [SDK](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-iOS) | [SDK](https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Linux) | — |
 | **ID Document Recognition**<br/><sub>OCR, MRZ and barcode for passports, ID cards and licences</sub> | [SDK](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Android) | [SDK](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-iOS) | [SDK](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Linux) | [SDK](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Windows) |
 | **ID Document Liveness**<br/><sub>Catches printed copies, screen replays and swapped portraits</sub> | — | — | [SDK](https://github.com/FaceOnLive/ID-Document-Liveness-Detection-SDK-Linux) | — |
 | **Deepfake Detection**<br/><sub>Flags AI-generated and manipulated faces in images and video frames</sub> | — | — | [SDK](https://github.com/FaceOnLive/DeepFake-Detection-SDK-Linux) | — |
 | **Touchless Fingerprint**<br/><sub>Contactless fingerprint capture and matching, on device</sub> | [SDK](https://github.com/FaceOnLive/Touchless-Fingerprint-Recognition-SDK-Android) | [SDK](https://github.com/FaceOnLive/Touchless-Fingerprint-Recognition-SDK-iOS) | — | — |
 
-<sub>Flutter, .NET and Python packages are also available. See the <a href="https://docs.faceonlive.com/">docs</a> or <a href="https://faceonlive.com/contacts/">ask us</a> for your platform.</sub>
+— means no public repository is linked here yet, not that the platform is unsupported. [Ask us](https://faceonlive.com/contacts/) about other platforms.
+
+**Also available:**
+- **Flutter:** [Face Recognition & Liveness](https://github.com/FaceOnLive/Face-Recognition-SDK-Flutter) · [ID Document Recognition](https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-Flutter)
+- **.NET:** [Face Recognition & Liveness for Windows (.NET 8)](https://github.com/FaceOnLive/Face-Recognition-SDK-Windows-DotNet)
+- **Python:** [SDK-integrated server guide](https://docs.faceonlive.com/sdk-integrated-server) with Python samples for each check; the Linux SDK repositories above also include Python code
 
 <details>
 <summary><b>More repositories:</b> OCR, sample apps and other computer-vision projects</summary>
@@ -153,7 +158,7 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 
 | Step | What you do | Link |
 | :-: | :-- | :-- |
-| **1** | Try the hosted demos with your own images | [Hugging Face](https://huggingface.co/FaceOnLive) |
+| **1** | Try the hosted demos with your own images | [Try hosted demos](https://huggingface.co/FaceOnLive) |
 | **2** | Request an evaluation key and SDK binaries for your platform | [Request evaluation](https://faceonlive.com/contacts/) |
 | **3** | Integrate in your own environment with the guides | [Docs](https://docs.faceonlive.com/) |
 | **4** | Go live on an **Annual** or **Perpetual** license, sized to your SDKs, platforms and volume | [Plans](https://faceonlive.com/pricing-plans/) |
@@ -176,18 +181,12 @@ Questions about licensing, a pilot or your platform? **[Request an evaluation](h
 
 <p align="center">
   <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="36" height="36"></a>&emsp;
+  <a href="mailto:contact@faceonlive.com" title="Email: contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email: contact@faceonlive.com" width="36" height="36"></a>&emsp;
   <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="LinkedIn: faceonlive-sdk"><img src="./assets/icons/linkedin.svg" alt="LinkedIn: faceonlive-sdk" width="36" height="36"></a>&emsp;
   <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="./assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="36" height="36"></a>&emsp;
-  <a href="mailto:contact@faceonlive.com" title="Email: contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email: contact@faceonlive.com" width="36" height="36"></a>&emsp;
+  <a href="https://huggingface.co/FaceOnLive" title="Hugging Face: live demos"><img src="./assets/icons/huggingface.svg" alt="Hugging Face: live demos" width="36" height="36"></a>&emsp;
+  <a href="https://rapidapi.com/organization/faceonlive-inc" title="RapidAPI: FaceOnLive APIs"><img src="./assets/icons/api.svg" alt="RapidAPI: FaceOnLive APIs" width="36" height="36"></a>&emsp;
   <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Slack: join the FaceOnLive community"><img src="./assets/icons/slack.svg" alt="Slack: join the FaceOnLive community" width="36" height="36"></a>&emsp;
   <a href="https://wa.me/+17074043606" title="WhatsApp: chat with FaceOnLive"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp: chat with FaceOnLive" width="36" height="36"></a>&emsp;
-  <a href="https://t.me/faceonlive" title="Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="Telegram: @faceonlive" width="36" height="36"></a>&emsp;
-  <a href="https://huggingface.co/FaceOnLive" title="Hugging Face: live demos"><img src="./assets/icons/huggingface.svg" alt="Hugging Face: live demos" width="36" height="36"></a>&emsp;
-  <a href="https://rapidapi.com/organization/faceonlive-inc" title="RapidAPI: FaceOnLive APIs"><img src="./assets/icons/api.svg" alt="RapidAPI: FaceOnLive APIs" width="36" height="36"></a>
+  <a href="https://t.me/faceonlive" title="Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="Telegram: @faceonlive" width="36" height="36"></a>
 </p>
-
-<br/>
-
-<div align="center">
-<sub><b>FaceOnLive</b>: identity verification you fully control.</sub>
-</div>
