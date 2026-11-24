@@ -180,13 +180,13 @@ Run on Android, iOS, Flutter, Linux, Windows, .NET, and Python. Offline licenses
 Questions about licensing, a pilot or your platform? **[Request an evaluation](https://faceonlive.com/contacts/)** or email **[contact@faceonlive.com](mailto:contact@faceonlive.com)**. You can also reach us on any of these channels:
 
 <p align="center">
-  <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="./assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="36" height="36"></a>&emsp;
-  <a href="mailto:contact@faceonlive.com" title="Email: contact@faceonlive.com"><img src="./assets/icons/email.svg" alt="Email: contact@faceonlive.com" width="36" height="36"></a>&emsp;
-  <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="LinkedIn: faceonlive-sdk"><img src="./assets/icons/linkedin.svg" alt="LinkedIn: faceonlive-sdk" width="36" height="36"></a>&emsp;
-  <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="./assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="36" height="36"></a>&emsp;
-  <a href="https://huggingface.co/FaceOnLive" title="Hugging Face: live demos"><img src="./assets/icons/huggingface.svg" alt="Hugging Face: live demos" width="36" height="36"></a>&emsp;
-  <a href="https://rapidapi.com/organization/faceonlive-inc" title="RapidAPI: FaceOnLive APIs"><img src="./assets/icons/api.svg" alt="RapidAPI: FaceOnLive APIs" width="36" height="36"></a>&emsp;
-  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Slack: join the FaceOnLive community"><img src="./assets/icons/slack.svg" alt="Slack: join the FaceOnLive community" width="36" height="36"></a>&emsp;
-  <a href="https://wa.me/+17074043606" title="WhatsApp: chat with FaceOnLive"><img src="./assets/icons/whatsapp.svg" alt="WhatsApp: chat with FaceOnLive" width="36" height="36"></a>&emsp;
-  <a href="https://t.me/faceonlive" title="Telegram: @faceonlive"><img src="./assets/icons/telegram.svg" alt="Telegram: @faceonlive" width="36" height="36"></a>
+  <a href="https://faceonlive.com/" title="FaceOnLive website: faceonlive.com"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/faceonlive.svg" alt="FaceOnLive website: faceonlive.com" width="36" height="36"></a>&emsp;
+  <a href="mailto:contact@faceonlive.com" title="Email: contact@faceonlive.com"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/email.svg" alt="Email: contact@faceonlive.com" width="36" height="36"></a>&emsp;
+  <a href="https://www.linkedin.com/company/faceonlive-sdk/" title="LinkedIn: faceonlive-sdk"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/linkedin.svg" alt="LinkedIn: faceonlive-sdk" width="36" height="36"></a>&emsp;
+  <a href="https://x.com/face_on_live" title="FaceOnLive on X: @face_on_live"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/x.svg" alt="FaceOnLive on X: @face_on_live" width="36" height="36"></a>&emsp;
+  <a href="https://huggingface.co/FaceOnLive" title="Hugging Face: live demos"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/huggingface.svg" alt="Hugging Face: live demos" width="36" height="36"></a>&emsp;
+  <a href="https://rapidapi.com/organization/faceonlive-inc" title="RapidAPI: FaceOnLive APIs"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/api.svg" alt="RapidAPI: FaceOnLive APIs" width="36" height="36"></a>&emsp;
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA" title="Slack: join the FaceOnLive community"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/slack.svg" alt="Slack: join the FaceOnLive community" width="36" height="36"></a>&emsp;
+  <a href="https://wa.me/+17074043606" title="WhatsApp: chat with FaceOnLive"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/whatsapp.svg" alt="WhatsApp: chat with FaceOnLive" width="36" height="36"></a>&emsp;
+  <a href="https://t.me/faceonlive" title="Telegram: @faceonlive"><img src="https://raw.githubusercontent.com/FaceOnLive/.github/main/profile/assets/icons/telegram.svg" alt="Telegram: @faceonlive" width="36" height="36"></a>
 </p>
